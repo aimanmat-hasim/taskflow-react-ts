@@ -23,7 +23,9 @@ The goal of this project is to practice writing **solid frontend logic** and doc
 This project emphasizes:
 
 - Component-based architecture
-- State management with `useState`
+- State management with 
+
+`useState`
 - Side-effect handling with `useEffect`
 - Derived data optimization with `useMemo`
 - Clear separation of concerns
@@ -42,3 +44,8 @@ src/
 ├── main.tsx
 ├── index.css
 └── assets/
+
+```
+
+# Preview 
+https://github.com/user-attachments/assets/b13b4954-3698-4070-a2d5-42d302ed3ec4
